@@ -55,7 +55,7 @@ nav {
 }
 
 .logo-img {
-    width: 280px;
+    width: 50px;
     height: 50px;
     transition: transform 0.3s;
 }
@@ -470,4 +470,5 @@ footer {
     .steps {
         grid-template-columns: 1fr;
     }
+
 }
